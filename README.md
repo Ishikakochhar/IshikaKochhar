@@ -1,11 +1,11 @@
-<h1 align="center">Hi there! 👋 I'm Ishika Kochhar 🌟</h1>
+<h1 align="center">Hi, I'm Ishika Kochhar 👩‍💻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Aspiring+Developer+🚀;Design+Enthusiast+🎨;Always+learning%2C+always+building+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Aspiring+Developer+🚀;Design+Enthusiast+🎨;Tech+Explorer+🌐" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ishikakochhar&color=brightgreen" alt="Visitor count" />
+  <img src="https://komarev.com/ghpvc/?username=ishikakochhar&color=brightgreen" alt="Visitor count top" />
 </p>
 
 ---
@@ -13,15 +13,10 @@
 ## 👩‍💻 About Me
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="280" alt="working-gif" />
+  <img src="https://komarev.com/ghpvc/?username=ishikakochhar&style=flat-square&color=ff69b4" alt="Visitor count center" />
 </p>
 
-- 🎓 BTech CSE student @ **BML Munjal University**
-- 💡 Passionate about **AI/ML**, **App & Web Development**
-- ✨ Obsessed with crafting clean, intuitive UIs
-- 🌱 Currently exploring **Flutter**, **Firebase**, and modern UI/UX practices
-- 🤝 Love collaborating and brainstorming on tech ideas
-- 🌐 I turn thoughts into things — through code.
+I'm a third-year BTech CSE student at **BML Munjal University**, passionate about building intelligent and visually appealing software. I love combining creativity with logic to craft apps and tools that make life easier and more delightful. Currently, I'm diving deep into Flutter, Firebase, and UI/UX design, AI/ML , Deep learning. Let's connect and build something meaningful together!
 
 ---
 
@@ -87,9 +82,9 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+ <a href="mailto:kochharishika@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/ishikakochhar"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/yourhandle"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/ishika_kochhar_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
