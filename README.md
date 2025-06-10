@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Ishika Kochhar 💻🌟</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Aspiring+Software Developer+🚀;Tech+Explorer+🌐" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=ishikakochhar&style=flat-square&color=ff69b4" alt="Visitor count center" />
 </p>
 
 <p align="center">
