@@ -1,14 +1,14 @@
 <h1 align="center">Hey there, I'm Ishika Kochhar 💻🌟</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ishikakochhar&style=flat-square&color=ff69b4" alt="Visitor count center" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Aspiring+Software Developer+🚀;Tech+Explorer+🌐" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/ishikakochhar/count.svg" alt="Visitor Counter" />
 </p>
 <p align="center">
-  <b><img src="https://img.shields.io/badge/Visitors-Counting-blue?style=for-the-badge&logo=eye&logoColor=white" /></b>
+  <b><img src="https://img.shields.io/badge/Visitors-Counting-blue?style=for-the-badge&logo=eye&logoColor=blue" /></b>
 </p>
 
 ---
@@ -18,10 +18,10 @@
 I'm a third-year BTech CSE student at **BML Munjal University**, passionate about building intelligent and visually appealing software. I love combining creativity with logic to craft apps and tools that make life easier and more delightful.  
 
 Currently, I'm diving deep into:
-- App/Web Development 🐦
-- AI/ML & Deep Learning 🧠
+- Flutter 🐦
 - Firebase 🔥
 - UI/UX Design 🎨
+- AI/ML & Deep Learning 🧠
 
 📬 Let’s connect and build something meaningful together!
 
