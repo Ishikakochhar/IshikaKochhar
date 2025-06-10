@@ -5,24 +5,22 @@
 </p>
 
 <p align="center">
-  <img src="banner.png" alt="Banner" width="100%" />
+  <img src="https://komarev.com/ghpvc/?username=ishikakochhar&color=brightgreen" alt="Visitor count" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding-gif" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-<details>
-  <summary>Click to expand</summary>
-
 - 🎓 BTech CSE student @ **BML Munjal University**
-- 💡 Passionate about **AI/ML**, **App & Web Development**
-- ✨ Obsessed with designing clean, intuitive interfaces
-- 🌱 Currently diving into **Flutter**, **Firebase**, and **UI/UX principles**
+- 💡 Passionate about **AI/ML**, **App & Web Development**, Aspiring Software Devloper
+- ✨ Obsessed with creating new projects
 - 💬 Always open to collaborate on meaningful tech
 - 🎯 Believer in tech for impact
-
-</details>
 
 ---
 
@@ -98,11 +96,3 @@
 ## 💬 Quote I Live By
 
 > _“I believe in turning ideas into impactful code.”_
-
----
-
-## 👣 Visitor Count
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ishikakochhar&color=brightgreen" alt="Visitor count" />
-</p>
