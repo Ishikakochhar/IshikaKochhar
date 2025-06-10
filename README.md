@@ -1,19 +1,11 @@
 <h1 align="center">Hey there, I'm Ishika Kochhar 💻🌟</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=1E90FF&center=true&vCenter=true&width=435&lines=Aspiring+Software Developer+🚀;Tech+Explorer+🌐" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=1E90FF&center=true&vCenter=true&width=435&lines=Aspiring+Software+Developer+🚀;Tech+Explorer+🌐" alt="Typing SVG" />
 </p>
 
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/ishikakochhar/count.svg" alt="Visitor Counter" />
-</p>
-<p align="center">
-  <b><img src="https://img.shields.io/badge/Visitors-Counting-blue?style=for-the-badge&logo=eye&logoColor=blue" /></b>
-</p>
 
 ---
-
 ## 👩‍💻 About Me
 
 I'm a third-year BTech CSE student at **BML Munjal University**, passionate about building intelligent and visually appealing software. I love combining creativity with logic to craft apps and tools that make life easier and more delightful.  
@@ -27,6 +19,16 @@ Currently, I'm diving deep into:
 📬 Let’s connect and build something meaningful together!
 
 ---
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/ishikakochhar/count.svg" alt="Visitor Counter" />
+</p>
+<p align="center">
+  <b><img src="https://img.shields.io/badge/Visitors-Counting-blue?style=for-the-badge&logo=eye&logoColor=blue" /></b>
+</p>
+
+---
+
 
 ## 🛠️ Tech Toolbox
 
