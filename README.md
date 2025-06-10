@@ -11,10 +11,12 @@
 I'm a third-year BTech CSE student at **BML Munjal University**, passionate about building intelligent and visually appealing software. I love combining creativity with logic to craft apps and tools that make life easier and more delightful.  
 
 Currently, I'm diving deep into:
-- Flutter 🐦
+- App / Web Development 🐦
+- AI/ML & Deep Learning 🧠
 - Firebase 🔥
 - UI/UX Design 🎨
-- AI/ML & Deep Learning 🧠
+- Open Source Contributions to collaborate and give back to the community
+
 
 📬 Let’s connect and build something meaningful together!
 
