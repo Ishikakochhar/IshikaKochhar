@@ -6,7 +6,7 @@
 
 
 ---
-## 👩‍💻 About Me
+## 👩‍💻 About Me 
 
 I'm a third-year BTech CSE student at **BML Munjal University**, passionate about building intelligent and visually appealing software. I love combining creativity with logic to craft apps and tools that make life easier and more delightful.  
 
