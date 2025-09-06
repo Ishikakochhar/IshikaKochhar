@@ -20,14 +20,6 @@ Currently, I'm diving deep into:
 
 📬 Let’s connect and build something meaningful together!
 
----
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/ishikakochhar/count.svg" alt="Visitor Counter" />
-</p>
-<p align="center">
-  <b><img src="https://img.shields.io/badge/Visitors-Counting-blue?style=for-the-badge&logo=eye&logoColor=blue" /></b>
-</p>
 
 ---
 
